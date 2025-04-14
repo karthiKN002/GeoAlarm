@@ -1,10 +1,6 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
-import com.google.android.gms.maps.GoogleMap;
-import com.google.android.gms.maps.model.Circle;
-import com.google.android.gms.maps.model.CircleOptions;
 import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.Marker;
 
 import static android.location.Location.distanceBetween;
 

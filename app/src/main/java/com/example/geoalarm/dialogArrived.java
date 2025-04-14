@@ -1,4 +1,4 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -9,12 +9,7 @@ import android.media.MediaPlayer;
 import android.media.Ringtone;
 import android.media.RingtoneManager;
 import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
-import android.os.VibrationEffect;
-import android.os.Vibrator;
-import android.provider.MediaStore;
-import android.os.Vibrator;
 import android.support.v7.app.AppCompatDialogFragment;
 
 public class dialogArrived extends AppCompatDialogFragment {

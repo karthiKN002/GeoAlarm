@@ -1,10 +1,9 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
-import android.support.v4.content.ContextCompat;
 import android.util.Log;
 
 public class backgroundServiceRestarterBroadcastReceiver extends BroadcastReceiver {

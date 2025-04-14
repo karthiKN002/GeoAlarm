@@ -1,12 +1,6 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
 import android.content.Context;
-import android.os.Bundle;
-import android.support.v4.app.FragmentManager;
-import android.util.Log;
-import android.view.View;
-
-import com.google.android.gms.maps.GoogleMap;
 
 import java.io.File;
 

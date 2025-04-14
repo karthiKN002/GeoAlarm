@@ -1,20 +1,16 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
 import android.content.Context;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import com.google.android.gms.maps.SupportMapFragment;
 import android.support.design.widget.Snackbar;
 import android.util.Log;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.support.v4.app.FragmentManager;
-import android.widget.Toast;
 
-import com.google.android.gms.maps.SupportMapFragment;
-
-import java.lang.annotation.Target;
+import com.example.mukodjvegre_location.R;
 
 public class manageSettingsButtons  {
     private View myview;

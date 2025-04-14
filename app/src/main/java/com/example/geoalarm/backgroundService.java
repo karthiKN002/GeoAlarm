@@ -1,4 +1,4 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
 import android.Manifest;
 import android.app.Service;

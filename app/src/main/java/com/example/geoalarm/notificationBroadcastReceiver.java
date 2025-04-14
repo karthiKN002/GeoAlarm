@@ -1,11 +1,9 @@
-package com.example.mukodjvegre_location;
+package com.example.geoalarm;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.media.MediaPlayer;
-import android.media.RingtoneManager;
-import android.net.Uri;
 import android.util.Log;
 
 public class notificationBroadcastReceiver extends BroadcastReceiver {
